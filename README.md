@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm kumadayo</h1>
 <h3 align="center">I am creating several tools that can be useful for Yuanshen's data mining and PS development.</h3>
-
+<img src="https://komarev.com/ghpvc/?username=kuma-dayo" alt="profile view"/>
 <h3 align="left">Contact me:</h3>
 <p align="left">Discord: <a href="https://discord.com/users/875855195135934494" target="_blank" rel="noreferrer">kumadayo</a> </p>
 <img src="https://lanyard.cnrad.dev/api/875855195135934494" alt="my discord"/>
